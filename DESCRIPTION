@@ -1,0 +1,12 @@
+Package: RTutorMilitarizationOfUsPolice
+Type: Package
+Title: RTutor problem set Militarization-of-US-police
+Version: 0.1
+Date: 2025-01-06
+Author: Jonas Grüneberg
+Maintainer: Jonas Grüneberg 
+Description: RTutor problem set Militarization-of-US-police
+License: Not yet licensed by the author. The default suggestion for licensing is
+	Problem set content: Creative Commons (CC BY-NC 4.0)
+	Package code: GPL >= 2.0
+Depends: RTutor, dplyr, kableExtra, ggplot2, psych, fixest, modelsummary, tidyr, fwildclusterboot
